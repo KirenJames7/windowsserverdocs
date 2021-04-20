@@ -15,6 +15,8 @@ To upgrade to Windows Server 2019, use this topic first to upgrade to Windows Se
 
 ## Before you begin your in-place upgrade
 
+NOTE: Windows Server 2008 R2 Standard requires Service Pack 1 installed in order to be upgraded to Windows Server 2012 R2 Standard
+
 Before you start your Windows Server upgrade, we recommend that you collect some information from your devices, for diagnostic and troubleshooting purposes. Because this information is intended for use only if your upgrade fails, you must make sure that you store the information somewhere that you can get to it off of your device.
 
 ### To collect your info
